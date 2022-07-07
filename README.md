@@ -1,6 +1,5 @@
 # mie_scat
-it calculates the scattering factors for dust grains
-
+Code snippet to calculate the scattering factors of dust grains.
 ---------------------------------------------------------------------------------------------------------------
 copyright disclosure record C22052
 ---------------------------------------------------------------------------------------------------------------
